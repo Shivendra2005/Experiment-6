@@ -1,5 +1,5 @@
-// NAME - SHLOKA PATEL 
-// PRN -2307023120 
+// NAME - SHIVENDRA DWIVEDI 
+// PRN -2307023122
 // EXPERIMENT -6(A) 
 
 #include<iostream>
